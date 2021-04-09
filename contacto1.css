@@ -1,0 +1,199 @@
+.cabecera{
+	background-color: #0D0D95;
+	width: 100%;
+	left: 0%; /* margine-left*/
+	top: 0%;   /* margine-top*/
+	height: 15%;
+	color:white;
+	border: 9.6px solid #C9A30A;
+	text-align: center;
+}
+
+.contenido{
+	width: 15%;
+	left: 0%; /* margine-left*/
+	top: 13.5%;   /* margine-top*/
+	height: 60%;
+	color:white;
+	border-top: 9.6px solid #C9A30A;
+	border-left: 9.6px solid #C9A30A;
+	text-align: left;
+}
+
+.secundario{
+	width: 85%;
+	left: 15%; /* margine-left*/
+	top: 13.5%;
+	height: 60%;
+	color:white;
+	border-top: 9.6px solid #C9A30A;
+	border-right: 9.6px solid #C9A30A;
+	text-align: left;
+
+}
+ #link0 {
+        color:blue;
+        left:8%;
+        top:5%;
+      }
+
+       #parrafo0 {
+        color:black;
+        left:18%;
+        top:19%;
+      }
+
+      #link1 {
+        color:blue;
+        left:8%;
+        top:5%;
+      }
+
+       #parrafo1 {
+        color:black;
+        left:18%;
+        top:19%;
+      }
+
+       #link2 {
+       	top:24%;
+       	left:8%;
+        color:blue;
+      }
+
+      #parrafo2 {
+        color:black;
+        left:18%;
+        top:39%;
+      }
+
+       #link3 {
+       	top:45%;
+       	left:8%;
+        color:blue;
+      }
+
+      #parrafo3 {
+        color:black;
+        left:18%;
+        top:60%;
+      }
+
+
+
+    #imagen4 {
+       	top:46%;
+       	left:50%;
+        
+      }
+
+
+.pie{
+	
+	width: 100%;
+	left: 0%; /* margine-left*/
+	top: 72%;   /* margine-top*/
+	height: 80%;
+	color:black;
+	border-left: 9.6px solid #C9A30A;
+	border-bottom: 9.6px solid #C9A30A;
+	border-right: 9.6px solid #C9A30A;
+}
+      #link4 {
+        top:0%;
+        left:3%;
+        color:black;
+      }
+
+      #parrafo4 {
+        color:black;
+        left:22%;
+        top:3%;
+      }
+       #link5 {
+        top:18%;
+        left:3%;
+        color:black;
+      }
+
+      #parrafo5 {
+        color:black;
+        left:22%;
+        top:20%;
+      }
+
+           #parrafo51 {
+        color:black;
+        left:22%;
+        top:25%;
+      }
+
+       #link6 {
+        top:35%;
+        left:3%;
+        color:black;
+      }
+
+      #parrafo6 {
+        color:black;
+        left:22%;
+        top:38%;
+      }
+       #link7 {
+        top:50%;
+        left:3%;
+        color:black;
+      }
+
+      #parrafo7 {
+        color:black;
+        left:22%;
+        top:52%;
+      }
+
+   #imagen5 {
+        top:63%;
+        left:5%;
+        
+      }
+
+        #imagen6{
+        top:45%;
+        left:60%;
+        
+      }
+
+     
+
+
+.cabecera,
+.contenido,
+.pie,
+.secundario,
+#frase1,
+#frase2,
+#frase3,
+#link0,
+#link1,
+#link2,
+#link3,
+#link4,
+#link5,
+#link6,
+#link7,
+#parrafo0,
+#parrafo1,
+#parrafo2,
+#parrafo3,
+#parrafo4,
+#parrafo5,
+#parrafo51,
+#parrafo6,
+#parrafo7,
+#imagen4,
+#imagen5,
+#imagen6{
+
+	position: absolute;
+
+}
